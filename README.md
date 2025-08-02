@@ -22,7 +22,7 @@ This project leverages advanced deep learning models to **detect suicide risk in
 | `XLNet_model.py`            | XLNet-based classification model                              |
 | `neural_network_suicide.py` | BERT-based model with custom classifier head (final model)    |
 | `suiciderisk_UI.py`         | Streamlit app UI and logic for real-time risk scoring         |
-| `U2331312B_URECA_Final Paper.pdf` | Research paper detailing methodology and results       |
+| `Final Paper.pdf` | Research paper detailing methodology and results       |
 
 ---
 
